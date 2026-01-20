@@ -10,8 +10,7 @@ YYText
 Powerful text framework for iOS to display and edit rich text.<br/>
 (It's a component of [YYKit](https://github.com/ibireme/YYKit))
 
-
-Featureschenyifyinformation$cc8888
+chenyifyinformation$cc8888
 ==============
 
 - UILabel and UITextView API compatible
