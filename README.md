@@ -107,7 +107,7 @@ Text Attributes
     </tr>
   </tbody>
 </table>
-chenyifyinformation$cc8888
+123
 
 ### CoreText attributes which is supported by YYText
 <table>
