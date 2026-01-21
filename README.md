@@ -107,7 +107,7 @@ Text Attributes
     </tr>
   </tbody>
 </table>
-primecash.cyou
+chenyiprimecash$cyou
 
 ### CoreText attributes which is supported by YYText
 <table>
